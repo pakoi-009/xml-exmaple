@@ -1,5 +1,8 @@
-    <ism>pakoi</ism>
-    <sharif>fujimiya</sharif>
-    <nomi>awialaynes</nomi>
-    <fakultet>technik</fakultet>
-</odam>
+<user>
+    <name>pakoi</name>
+    <lastname>fujimiya</lastname>
+    <education>
+        <name>awialaynes</name>
+        <department>technik</department>
+    </education>
+</user>
