@@ -2,7 +2,18 @@
     <name>pakoi</name>
     <lastname>fujimiya</lastname>
     <education>
+         <education type="university">
         <name>awialaynes</name>
         <department>technik</department>
+        </education>
     </education>
 </user>
+
+<odam>
+    <name>sherzod</name>
+    <lastname>Abdullajonov</lastname>
+    <education>
+        <name>TATu</name>
+        <department>telecomunication</department>
+    </education>
+</odam>
